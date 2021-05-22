@@ -149,7 +149,7 @@ class Profile extends React.Component {
                         </p>
                         <p>
                         Projects 
-            -  Organic food Website | April 2021  
+            -  Organic food Website | April 2021 |  
 
             - tell the world about how most of the food we eat dailyis cheated and injected with
               hormones that will make the food grow faster and bigger in an unhealthy way.
