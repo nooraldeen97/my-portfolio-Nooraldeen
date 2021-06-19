@@ -117,13 +117,10 @@ class DemoNavbar extends React.Component {
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                        Projects
                       </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
                         Profile
-                      </DropdownItem>
-                      <DropdownItem to="/login-page" tag={Link}>
-                        Login
                       </DropdownItem>
                      
                     </DropdownMenu>
